@@ -8,3 +8,4 @@ Uses PyTube and FFMPEG to download your favorite Youtube Videos
 * Resolution Picker (Up to 1080p)
 * Download only the audio
 * Has a GUI
+* Downloads Audios with the video thumbnail (Useful for downloading Songs)
