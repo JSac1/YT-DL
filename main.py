@@ -263,7 +263,7 @@ class modeSelect:
             for v in videos_picked:
                 videos.append(videos_dict[v])
 
-            playlist_threads = []
+            # playlist_threads = []
 
             if not os.path.exists("Playlists"):
                 os.mkdir("Playlists")
