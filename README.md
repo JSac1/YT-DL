@@ -12,3 +12,5 @@ Uses PyTube and FFMPEG to download your favorite YouTube Videos
 * Has a GUI
 * Downloads Audios with the video thumbnail (Useful for downloading Songs)
 
+### Links
+[Releases](https://github.com/JSac1/YT-DL/releases)
