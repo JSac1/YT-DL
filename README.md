@@ -9,3 +9,4 @@ Uses PyTube and FFMPEG to download your favorite Youtube Videos
 * Download only the audio
 * Has a GUI
 * Downloads Audios with the video thumbnail (Useful for downloading Songs)
+
