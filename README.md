@@ -1,7 +1,9 @@
 # YT-DL
-Uses PyTube and FFMPEG to download your favorite Youtube Videos
+Uses PyTube and FFMPEG to download your favorite YouTube Videos
 
 ![YT-DL Preview](https://cdn.discordapp.com/attachments/836454424145559552/1147824206730494023/image.png)
+
+> Requires FFMPEG to be installed on the machine
 
 ### Features
 * Support Playlists
