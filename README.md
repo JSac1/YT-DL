@@ -14,3 +14,4 @@ Uses PyTube and FFMPEG to download your favorite YouTube Videos
 
 ### Links
 [Releases](https://github.com/JSac1/YT-DL/releases)
+[How to install FFMPEG](https://www.wikihow.com/Install-FFmpeg-on-Windows)
