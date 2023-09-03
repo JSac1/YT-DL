@@ -294,7 +294,6 @@ class modeSelect:
                 #     thread.join()
                 print(f"FINISHED {playlist.title}")
 
-
         else:
             def on_prog(a, b, c):
                 print(a.title + f"({a.type})" + ":", str(((a.filesize / 1000000) - (c / 1000000)) / (
