@@ -76,7 +76,6 @@ class modeSelect:
                 print(a.title + f"({a.type})" + ":", str(((a.filesize / 1000000) - (c / 1000000)) / (
                         a.filesize / 1000000)) + f"   | {((a.filesize / 1000000) - (c / 1000000))}/{a.filesize / 1000000}")
 
-            # print(accepted_res)
             # video = pytube.YouTube(url, on_progress_callback=on_prog, use_oauth=False, allow_oauth_cache=True)
             print(video.title)
             streams = video.streams
